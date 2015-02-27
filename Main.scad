@@ -1,4 +1,3 @@
-//http://files.openscad.org/examples/Advanced/fractal.html
 include <VersionHandler.scad>;
 include <MengerSpongeBuilder.scad>;
 
